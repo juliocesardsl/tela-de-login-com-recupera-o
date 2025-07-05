@@ -24,7 +24,8 @@ Este projeto é uma interface de autenticação desenvolvida em Python usando:
   ```bash
   pip install customtkinter Pillow
 
-  🛠️ Como usar
+
+## 🛠️ Como usar
 Clone o repositório ou copie os arquivos.
 
 Crie o banco banco.db com a tabela usuarios:
